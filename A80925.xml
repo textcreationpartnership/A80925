@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Right Honorable, the Lord Lieutenant of Ireland, concerning the surrender of the tovvn of Ross, and the artillery, arms and ammunition there. Together with the several transactions between the Lord Lieutenant and the Governor in order thereunto: and the articles for the surrender thereof. Die Veneris, 16 Novembr. 1649. Ordered by the Parliament, that these letters, transactions and articles be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80925</idno>
+            <idno type="STC">Wing C7094A</idno>
+            <idno type="STC">Thomason E579_13</idno>
+            <idno type="STC">ESTC R206189</idno>
+            <idno type="EEBO-CITATION">99865364</idno>
+            <idno type="PROQUEST">99865364</idno>
+            <idno type="VID">165478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 89:E579[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Right Honorable, the Lord Lieutenant of Ireland, concerning the surrender of the tovvn of Ross, and the artillery, arms and ammunition there. Together with the several transactions between the Lord Lieutenant and the Governor in order thereunto: and the articles for the surrender thereof. Die Veneris, 16 Novembr. 1649. Ordered by the Parliament, that these letters, transactions and articles be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+                  <author>Taaffe, Lucas.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains several letters between Oliver Cromwell and Lucas Taaff.</note>
+                  <note>Annotation on Thomason copy: "Octob. 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165478:1" rendition="simple:additions"/>
+            <p>A LETTER From the Right Honorable, The Lord Lieutenant of <hi>Ireland,</hi> Concerning the Surrender of the TOVVN of ROSS, AND The Artillery, Arms and Ammunition there.</p>
+            <p>
+               <hi>Together with</hi> The ſeveral Tranſactions between the Lord Lieutenant and the Governor in order thereunto: And the ARTICLES for the Surrender thereof.</p>
+            <p>
+               <hi>Die Veneris, 16 Novembr. 1649.</hi>
+            </p>
+            <p>ORdered by the Parliament, That theſe Letters, Tranſ<g ref="char:EOLhyphen"/>actions and Articles be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <p>
+               <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edward Huſband,</hi> Printer to the Parliament of <hi>England.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165478:2"/>
+            <pb n="3" facs="tcp:165478:2"/>
+            <head>For the Honorable, <hi>WILLIAM LENTHAL</hi> 
+               <abbr>Eſq</abbr> Speaker of the PARLIAMENT of ENGLAND.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt from <hi>Wexford,</hi> we marched to <hi>Roſs,</hi> a walled Town, ſcituate upon the <hi>Bar<g ref="char:EOLhyphen"/>row,</hi> a Port Town, up to which a Ship of ſeven or eight hundred Tun may come. We came before it upon Wedneſday the Seventeenth inſtant, with three pieces of Canon: That evening I ſent a Summons; Major General <hi>Taaff</hi> being Governor, refuſed to admit my Trumpet into the Town, but took the Summons in, returning me no anſwer. I did hear, that near One thouſand Foot had been put into this place, ſome few days before my coming to it; the next day was ſpent in making preparati<g ref="char:EOLhyphen"/>ons for our Battery; and in our view there were boated over from the other ſide of the River, of Engliſh, Scots and Iriſh, Fifteen hundred more, <hi>Ormond, Caſtlehaven,</hi> and the Lord of <hi>Ardes,</hi> be<g ref="char:EOLhyphen"/>ing on the other ſide of the Water to cauſe it to be done. That night we planted our Battery, which begun to play very early the next Morning: The
+<pb n="4" facs="tcp:165478:3"/>
+Governor immediately ſent forth an Anſwer to my Summons, Copies of all which I make bold here<g ref="char:EOLhyphen"/>with to trouble you; the rather, becauſe you may ſee how God pulls down proud ſtomacks: He de<g ref="char:EOLhyphen"/>ſired Commiſſioners might Treat, and that in the mean time there might be a ceaſing of acts of Ho<g ref="char:EOLhyphen"/>ſtility on both ſides, which I refuſed, ſending in word, That if he would march away with Arms, Bag and Baggage, and give me Hoſtages for per<g ref="char:EOLhyphen"/>formance, he ſhould. Indeed he might have done it without my leave, by the advantage of the River. He inſiſted upon having the Canon with him, which I would not yield unto, but required the leaving the Artillery and Ammunition; which he was content to do, and marched away, leaving the great Ar<g ref="char:EOLhyphen"/>tillery, and the Ammunition in the Stores, to me. When they marched away, at leaſt Five hundred Engliſh (many of them of the <hi>Munſter</hi> Forces) came to us: <hi>Ormond</hi> is at <hi>Kilkenny, Inchiquin</hi> in <hi>Munſter, Henry O Neal, Owen Roe</hi>'s Son, is come up to <hi>Kilkenny,</hi> with near Two thouſand Foot and Horſe, with whom and <hi>Ormond</hi> there is now a per<g ref="char:EOLhyphen"/>fect Conjunction: So that now I truſt ſome angry friends will think it high time to take off their jea<g ref="char:EOLhyphen"/>louſie from thoſe to whom they ought exerciſe more charity. The Rendition of this Gariſon was a ſea<g ref="char:EOLhyphen"/>ſonable Mercy, as giving us an opportunity towards <hi>Munſter,</hi> and is for the preſent a very good Re<g ref="char:EOLhyphen"/>freſhment to our men. We are able to ſay nothing to all this, but that the Lord is ſtill pleaſed to own a company of poor worthleſs Creatures; for which we deſire his Name may be magnified, and the
+<pb n="4" facs="tcp:165478:3"/>
+hearts of all concerned may be provoked to walk worthy of ſuch continued Favors. This is the ear<g ref="char:EOLhyphen"/>neſt deſire of</p>
+            <closer>
+               <signed>Your moſt humble Servant.</signed>
+               <dateline>
+                  <hi>Roſs,</hi>
+                  <date> 
+                     <hi>Octob.</hi> 25. 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Colonel</hi> Horton <hi>is lately dead of the Countrey Diſ<g ref="char:EOLhyphen"/>eaſe, leaving a Son behinde him: He was a perſon of great Integrity and Courage; his former Ser<g ref="char:EOLhyphen"/>vices, eſpecially that of the laſt Summer, I hope will be had in remembrance.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:165478:4"/>
+            <head>For the Commander in Chief in <hi>Roſs.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my coming into <hi>Ireland,</hi> I have this witneſs for my ſelf, That I have endeavored to avoid effuſion of blood, having been before no place, to which ſuch terms have not been firſt ſent, as might have turned to the good and preſervation of thoſe to whom they were offered. This being my principle, That the people and place where I come may not ſuffer, except through their own wilfulneſs. To the end I may obſerve the like courſe with this place, and the people therein, I do hereby ſummon you to deliver the Town of <hi>Roſs</hi> into my hands to the uſe of the Parliament of <hi>England:</hi> Expecting your ſpeedy Anſwer, I reſt,</p>
+            <closer>
+               <signed>Your Servant, <hi>O. CROMVVEL.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>October</hi> 17. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For General <hi>Cromwel,</hi> or in his abſence, To the Com<g ref="char:EOLhyphen"/>mander in Chief of the Army now incamped before <hi>Roſs.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received a Summons from you the firſt day you appeared before this place, which ſhould have been anſwered ere now, had not other occaſions in<g ref="char:EOLhyphen"/>terrupted me; and although I am now in far better condition to defend this place, then I have been at
+<pb n="7" facs="tcp:165478:4"/>
+that time, yet am I upon the conſideration offered in your Summons, content to entertain a Treaty, and to receive from you thoſe Conditions that may be ſafe and honorable for me to accept of; which if you liſten to, I deſire that Pledges of both ſides may be ſent for performance of ſuch Articles as ſhall be agreed upon, and that all acts of Hoſtility may ceaſe of both ſides, and each Party keep within their diſtance. To this your immediate Reſolution is ex<g ref="char:EOLhyphen"/>pected by,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>LUCAS TAAFF.</hi>
+               </signed>
+               <dateline>
+                  <hi>Roſs,</hi> 
+                  <date>19 <hi>October,</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For the Governor in <hi>Roſs.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF you like to march away with thoſe under your Command, with their Arms, Bag and Baggage, and with Drums and Colours, and ſhal deliver up the Town to me, I ſhall give caution to perform theſe Conditions, expecting the like from you; As to the Inhabitants, they ſhal be permitted to live peaceably, free from the injury and violence of the Soldier: If you like hereof, you can tell how to let me know your minde, notwithſtanding my refuſal of a Ceſſation; by theſe you will ſee the reality of my intentions to ſave blood, &amp; to preſerve that place from ruine. I reſt,</p>
+            <closer>
+               <signed>Your Servant, <hi>O. CROMVVEL.</hi>
+               </signed>
+               <dateline>
+                  <date>19 <hi>October,</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:165478:5"/>
+            <head>For General <hi>Cromwel.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THere wants but little of what I would propoſe, which is, That ſuch Townſmen as have a deſire to part, may have liberty within a convenient time to carry away themſelves and goods, and Liberty of Conſcience to ſuch as ſhall ſtay, and that I may car<g ref="char:EOLhyphen"/>ry away ſuch Artillery and Ammunition as I have in my command; if you be inclined to this, I will ſend, upon your Honor or ſafe Conduct, an Officer to conclude with you: To which your immediate An<g ref="char:EOLhyphen"/>ſwer is expected by,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, LUCAS TAAFF.</signed>
+               <dateline>
+                  <hi>Roſs,</hi> 
+                  <date>19 <hi>Octob.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For the Governor in <hi>Roſs.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TO what I formerly offered, I ſhall make good; As for your carrying away any Artillery or Am<g ref="char:EOLhyphen"/>munition that you brought not in with you, or hath not come to you ſince you had the command of that place, I muſt deny you that, expecting you leave it as you found it: For that which you mention concerning liberty of conſcience, I meddle not with any mans con<g ref="char:EOLhyphen"/>ſcience; But if by liberty of conſcience, you mean a li<g ref="char:EOLhyphen"/>berty to exerciſe the Maſs, I judge it beſt to uſe plain dealing, and to let you know, Where the Parliament of <hi>England</hi> have power, that will not be allowed of: As for ſuch of the Townſmen who deſire to depart,
+<pb n="9" facs="tcp:165478:5"/>
+and to carry away themſelves and goods (as you ex<g ref="char:EOLhyphen"/>preſs) I engage my ſelf they ſhall have three moneths time ſo to do: And in the mean time ſhall be pre<g ref="char:EOLhyphen"/>ſerved from violence in their perſons and goods, as others under the obedience of the Parliament: If you accept of this offer, I engage my Honor for a punctual performance hereof. I reſt,</p>
+            <closer>
+               <signed>Your Servant, <hi>O. CROMVVEL.</hi>
+               </signed>
+               <dateline>
+                  <date>October 19. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For General <hi>Cromwel.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am content to yield up this Place upon the terms offered in your laſt and firſt Letter, and if you pleaſe to ſend your ſafe Conduct, to ſuch as I ſhall imploy to perfect thoſe Conditions, I ſhall on receipt thereof ſend them to you, in the interval to ceaſe from all acts of Hoſtility, and that all parties keep their own ground, until matters receive a full end; and ſo remains,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>Lucas Taaff.</hi>
+               </signed>
+               <dateline>
+                  <hi>Roſs,</hi> 
+                  <date>19 <hi>Octob.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="10" facs="tcp:165478:6"/>
+            <head>For the Governor in <hi>Roſs.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu have my Hand and Honor engaged to per<g ref="char:EOLhyphen"/>form what I offered in my firſt and laſt Letters, which I ſhall inviolable obſerve: I expect you ſend me immediately four perſons of ſuch quality as may be Hoſtages for your performance (for whom you have this ſafe Conduct encloſed, into which you may inſert their names) without which I ſhall not ceaſe acts of Hoſtility: If any thing happen by your delay to your prejudice, it will not be my fault; thoſe you ſend may ſee the Conditions perfected, whileſt I forbear acts of Hoſtility: I expect you forbear all actings within. I reſt,</p>
+            <closer>
+               <signed>Your Servant, <hi>O. CROMWEL.</hi>
+               </signed>
+               <dateline>
+                  <date>Octob. 19. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Articles concluded and agreed upon, by and between the Right Honorable the Lord Lieutenant of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> of the one part, and the Governor of <hi>Roſs</hi> of the other part, this 19 of <hi>October,</hi> 1649.</head>
+            <p n="1">
+               <hi>I.</hi> IT is concluded and agreed, That the Governor of <hi>Roſs,</hi> with all under his Command, may march unto <hi>Kilkenny</hi> or <hi>Loghlen Bridge,</hi> with their Arms, Bag and Baggage, Drums beating, Colours flying, Bullet in mouth, Bandeliers full of Powder, and Match lighted at both ends; provided they march thither in three days, and that no acts of Hoſtility be committed during the ſaid time.</p>
+            <p n="2">
+               <pb n="11" facs="tcp:165478:6"/>
+               <hi>II.</hi> It is concluded and agreed, That ſuch Townſmen as deſire to depart, and to carry away themſelves and their goods, ſhall have three moneths time ſo to do; and in the mean time ſhall be preſerved from violence in their perſons and goods, as others under the obedience of the Parliament; and that a Convoy be ſent with them to ſecure them in their journeys.</p>
+            <p n="3">
+               <hi>III.</hi> It is concluded and agreed, That the Inhabitants ſhall be permitted to live peaceably, and enjoy their goods and eſtates free from the injury and violence of the Soldier.</p>
+            <p n="4">
+               <hi>IV.</hi> In conſideration whereof, The Governor of <hi>Roſs</hi> is to ſurrender into my hands the Town of <hi>Roſs,</hi> Artillery, Arms, Ammunition, and other Utenſils of War that are therein, by three of the clock this preſent day, except ſuch as were brought in by the ſaid Gover<g ref="char:EOLhyphen"/>nor, or ſuch as came in ſince he had the Command there<g ref="char:EOLhyphen"/>of; and by two of the clock, to permit the Lord Lieu<g ref="char:EOLhyphen"/>tenant to put Three hundred men into the Blockhouſe, Gate-houſe near the breach, and the White Tower near the ſame.</p>
+            <p n="5">
+               <hi>V.</hi> For the performance of the Articles on the ſaid Governors part, He is to deliver four ſuch Hoſtages as I ſhall approve of.</p>
+            <list>
+               <item>James Craford.</item>
+               <item>Thomas Geynau.</item>
+               <item>
+                  <hi>Ma:</hi> Lynch.</item>
+               <item>Matth. Dormer.</item>
+            </list>
+            <closer>
+               <signed>I do approve of and confirm theſe Articles. LUCAS TAAFF.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
